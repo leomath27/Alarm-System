@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+*.o
+*.abs
+*.phy
+*.map
+*.dbg
+
+# CodeWarrior / IDE-generated workspace settings (often machine-specific)
+*.tdt
+*.stg
+*.hwl
+
+# Optional: if you generate output folders
+bin/
+build/
