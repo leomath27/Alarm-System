@@ -36,13 +36,9 @@ This was developed with **CodeWarrior for HCS12**.
    - `mc9s12dg256.inc` (referenced by `src/main.asm`)
 3. Build and flash/run using your normal Dragon12 workflow.
 
-> Note: Some IDE-generated files are intentionally ignored via `.gitignore` so your commits stay clean.
 
 ## Docs
 
 - `docs/Deep-Understanding-and-Report.pdf` — full lab/report write-up
 - `docs/interrupt_notes.txt` — quick notes captured during development
 
-## License
-
-No license file is included in the original project. If you plan to publish this publicly, add a license that matches how you want others to use your code.
